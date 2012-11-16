@@ -53,6 +53,12 @@ Other fields:
 
     Remove "N/A" from bibliography if it is all that exists in the field. (an empty bibliography field makes the link disappear)
 
+Article author:
+
+    Check on the article author and co-author profile
+
+    If content (bio and picture) does not exist copy it from the original eHistory site
+
 ------------------------------------------------------------------------------------------------------------------------
 Style Guidelines:
 
