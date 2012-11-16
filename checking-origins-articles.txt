@@ -93,6 +93,12 @@ Updates should be wrapped in a div tag with the id of "update". A date of the up
     My update
     </div>
 
+    Update announcements should be added to the Editor's Note with a date and link to the last page, where the update should be contained.
+
+    Example:
+
+    <p>UPDATE: This article was updated on November 7 2008 (<a title="Read the update." href="/article/second-amendment-goes-court/page/0/8#update">click here to read the update</a>)</p>
+
 Pages are created in the main article by inserting the <!--pagebreak--> placeholder where ever you would like to start a new page. This can also be done through the WYSIWYG editor by clicking the last icon labeled "Insert a page break".
 
 Cover Images, Article Maps and Charts, and Article Images must always have their "Alternate Text" field completed. For the Cover Image this can be the same as the caption so long as it describes the image. This field will not appear until after you upload the image.
@@ -105,16 +111,16 @@ Article Progress:
 Completed:
 
 Populism and Anti-Americanism in Modern Latin America
-
-------------------------------------------------------------------------------------------------------------------------
-
-Remaining:
-
 Tradition vs Charisma: The Sunni-Shi'i Divide in the Muslim World
 Conflict Termination: How to End -- and Not to End -- Insurgencies
 The Politics of International Adoption
 The Second Amendment Goes to Court
 After Putin? Russia's Presidential Elections
+
+------------------------------------------------------------------------------------------------------------------------
+
+Remaining:
+
 Beyond 'Tribes': Violence and Politics in Kenya
 (Fore)Closing on the American Dream
 Taiwan's 2008 Elections: A New Direction for the 'Other China'?
