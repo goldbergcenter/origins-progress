@@ -1,0 +1,171 @@
+Checking an article
+
+The following steps are needed to verify that an article has been added properly.
+
+Core article functionality:
+
+    Open the article and go to the last page.
+
+    Check for endnotes, links, and updates.
+
+    Test the links on the endnotes (the numbered endnote should link to the endnote in the text, that endnote should link back to the list on the last page.) (see below for code fixes)
+
+    Test the links if there is a links section. (see below for code fixes)
+
+    Test the link from the first page to the update section if one exists. (see below for code fixes)
+
+    Check for broken links and images within the text of the article
+
+    Open the images and maps and charts sections (if they exist)
+
+        Make sure images load properly
+
+        Make sure the title is not duplicated in the caption (the caption usually contains the source)
+
+        Make sure that appropriate images exists under their corresponding sections (map with maps, photographs with images)
+
+Code Fixes in Article Body:
+
+[WARNING]
+[WARNING: Make sure revisions are on before making any changes]
+[WARNING: Edit all code in an external text editor]
+[WARNING]
+
+    Confirm that page breaks match the original article (be sure you do this before working on endnotes or update links, they are dependent upon page number)
+
+    Confirm that endnotes are named and linked properly in code (see style guidelines)
+
+    Confirm that proper hr and h3 tags accompany the endnotes and links (see style guidelines)
+
+    Confirm that the updates are wrapped in the proper div and contain a h3 tag (see style guidelines)
+
+    Click on the HTML icon for each text area. Confirm that no unnecessary inline styles or poor formatting exists in these fields.
+
+Other fields:
+
+    Confirm that all fields appear correct.
+
+    Confirm that the Cover Image contains alternate text (this can be the caption, just make sure it describes the image).
+
+    Upload MP3s and M4A/MP4s as needed.
+
+    Add length of podcast as needed.
+
+    Remove "N/A" from bibliography if it is all that exists in the field. (an empty bibliography field makes the link disappear)
+
+------------------------------------------------------------------------------------------------------------------------
+Style Guidelines:
+
+HTML Style Rules for Origins
+
+All inline endnotes should be surrounded by a link (with an id, title, and href attribute), a sup tag, and contain only a number. The endnote should be flush against the preceding character or punctuation with no spaces. The id should be formatted as follows: "_endref1". The word footnote should never be used as footnotes will always appear at the end of the document and never at the end of a page or section.
+
+    Example:
+
+    The end of my sentence.<a id="_endref1" title="click to see the endnote" href="/article/politics-international-adoption/page/0/3#_end1"><sup>1</sup></a> Next sentence.
+
+All listings of footnotes should be a paragraph separated list with a linked number. The link should contain an id, title, and href. The id should be formatted as follows: "_end1"
+
+    Example:
+
+    <p><a id="_end1" title="View the related text." href="/article/the-url-for-this-article/page/0/0#_endref1">1</a> Example One.</p>
+    <p><a id="_end2" title="View the related text." href="/article/the-url-for-this-article/page/0/0#_endref2">2</a> Example Two.</p>
+
+Supplemental sections such as links and endnotes should be formatted with an opening <hr /> tag followed by a title wrapped in <h3> tags.
+
+    Example:
+
+    <hr />
+    <h3>Endnotes</h3>
+
+Updates should be wrapped in a div tag with the id of "update". A date of the update should be included in parenthesis with the title. An <hr /> tag is not required before an update.
+
+    Example:
+
+    <div id="update">
+    <h3>UPDATE (November 7 2008)</h3>
+    My update
+    </div>
+
+Pages are created in the main article by inserting the <!--pagebreak--> placeholder where ever you would like to start a new page. This can also be done through the WYSIWYG editor by clicking the last icon labeled "Insert a page break".
+
+Cover Images, Article Maps and Charts, and Article Images must always have their "Alternate Text" field completed. For the Cover Image this can be the same as the caption so long as it describes the image. This field will not appear until after you upload the image.
+
+
+------------------------------------------------------------------------------------------------------------------------
+Article Progress:
+------------------------------------------------------------------------------------------------------------------------
+
+Completed:
+
+Populism and Anti-Americanism in Modern Latin America
+
+------------------------------------------------------------------------------------------------------------------------
+
+Remaining:
+
+Tradition vs Charisma: The Sunni-Shi'i Divide in the Muslim World
+Conflict Termination: How to End -- and Not to End -- Insurgencies
+The Politics of International Adoption
+The Second Amendment Goes to Court
+After Putin? Russia's Presidential Elections
+Beyond 'Tribes': Violence and Politics in Kenya
+(Fore)Closing on the American Dream
+Taiwan's 2008 Elections: A New Direction for the 'Other China'?
+What's in a Name?: The Meaning of 'Muslim Fundamentalist'
+Playing Politics: Olympic Controversies Past and Present
+A Tale of Two Fisheries: Fishing and Over-Fishing in American Waters
+Punishing the Past: Presidential Elections in Times of Crisis (1932, 1968, 2008)
+Clash in the Caucasus: Georgia, Russia, and the Fate of South Ossetia
+Making Sense of the 'Hermit Kingdom': North Korea in the Nuclear Age
+With a Little Help from Our Friends?: The Costs of Coalition Warfare
+Kosovo's Year Zero: Between a Balkan Past and a European Future
+'The World's Worst Humanitarian Crisis': Understanding the Darfur Conflict
+The Real Marriage Revolution
+Requiem: Detroit and the Fate of Urban America
+Pirates of Puntland, Somalia
+Building a New Silk Road? Central Asia in the New World Order
+Becoming 'European': The Diverging Paths of the Czech and Slovak Republics
+The Long, Long Struggle for Women's Rights in Afghanistan
+From Baghdad to Kabul: The Historical Roots of U.S. Counterinsurgency Doctrine
+Population Bomb? The Debate over Indian Population
+1989 Twenty Years On: The End of Communism and the Fate of Eastern Europe
+Child Kidnapping in America
+Charles Darwin's American Adventure: A Melodrama in Three Acts
+Feast and Famine: The Global Food Crisis
+Dry Days Down Under: Australia and the World Water Crisis
+Influenza Pandemics Now, Then, and Again
+Updating 'No Child Left Behind': Change, or More of the Same?
+The Soccer World Goes to South Africa: Sport and the Making of Modern Africa
+The Other Half of the African Sky: Women's Struggles in Zimbabwe
+The Kids Aren't Alright: The Policymaking of Student Loan Debt
+From Gaza to Jerusalem: Is the Two State Solution under Siege?
+The Summer of '10: Federal Power, Local Autonomy, and the Struggle over Immigration Policy
+South America's 'Sleeping Giant' Wakes: Brazil's 2010 Election
+Where Have You Gone, Holden Caulfield? Why We Aren't 'Alienated' Anymore
+A Pact with the Devil? The United States and the Fate of Modern Haiti
+Currency Wars, Or Why You Should Care About the Global Struggle Over the Value of Money
+American Populism and the Persistence of the Paranoid Style
+Frenemies: Iran and America since 1900
+'The Energy of a Bright Tomorrow': The Rise of Nuclear Power in Japan
+WikiLeaks, and the Past and Present of American Foreign Relations
+Outdoing Panama: Turkey’s 'Crazy' Plan to Build an Istanbul Canal
+The Shifting Terrain of Latin American Drugs Trafficking
+Avoiding the Scourge of War: The Challenges of United Nations Peacekeeping
+Energy Policy and the Long Transition in America
+Down and Out (Again): America's Long Struggle with Mass Unemployment
+Conserving Diversity at the Dinner Table: Plants, Food Security and Gene Banks
+Re-Mapping American Politics: The Redistricting Revolution Fifty Years Later
+"Y'En A Marre!" (We're Fed Up!): Senegal in the Season of Discontent
+A Century of U.S. Relations with Iraq
+Climate, Human Population and Human Survival: What the Deep Past Tells Us about the Future
+Humanitarian Intervention: The American Experience from William McKinley to Barack Obama
+Syria's Islamist Movement and the 2011-12 Uprising
+Russia and the Race for the Arctic
+From Karl Marx to Karl Rove: “Class Warfare” in American Politics
+Socialism Takes Over France, Again?
+From Commonplace to Controversial: The Different Histories of Abortion in Europe and the United States
+"Merchants of Death": The International Traffic in Arms
+Democratizing American Higher Education: The Legacy of the Morrill Land Grant Act
+
+------------------------------------------------------------------------------------------------------------------------
