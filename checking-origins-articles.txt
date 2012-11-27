@@ -108,6 +108,8 @@ Cover Images, Article Maps and Charts, and Article Images must always have their
 Article Progress:
 ------------------------------------------------------------------------------------------------------------------------
 
+Articles for Mitchell:
+
 Completed:
 
 Populism and Anti-Americanism in Modern Latin America
@@ -116,13 +118,13 @@ Conflict Termination: How to End -- and Not to End -- Insurgencies
 The Politics of International Adoption
 The Second Amendment Goes to Court
 After Putin? Russia's Presidential Elections
+Beyond 'Tribes': Violence and Politics in Kenya
+(Fore)Closing on the American Dream
 
-------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------
 
 Remaining:
 
-Beyond 'Tribes': Violence and Politics in Kenya
-(Fore)Closing on the American Dream
 Taiwan's 2008 Elections: A New Direction for the 'Other China'?
 What's in a Name?: The Meaning of 'Muslim Fundamentalist'
 Playing Politics: Olympic Controversies Past and Present
@@ -135,6 +137,16 @@ Kosovo's Year Zero: Between a Balkan Past and a European Future
 'The World's Worst Humanitarian Crisis': Understanding the Darfur Conflict
 The Real Marriage Revolution
 Requiem: Detroit and the Fate of Urban America
+------------------------------------------------------------------------------------------------------------------------
+
+Articles for Alex:
+
+Completed:
+
+-------------------------------------------------------
+
+Remaining:
+
 Pirates of Puntland, Somalia
 Building a New Silk Road? Central Asia in the New World Order
 Becoming 'European': The Diverging Paths of the Czech and Slovak Republics
@@ -155,6 +167,16 @@ From Gaza to Jerusalem: Is the Two State Solution under Siege?
 The Summer of '10: Federal Power, Local Autonomy, and the Struggle over Immigration Policy
 South America's 'Sleeping Giant' Wakes: Brazil's 2010 Election
 Where Have You Gone, Holden Caulfield? Why We Aren't 'Alienated' Anymore
+------------------------------------------------------------------------------------------------------------------------
+
+Articles for Drew:
+
+Completed:
+
+-------------------------------------------------------
+
+Remaining:
+
 A Pact with the Devil? The United States and the Fate of Modern Haiti
 Currency Wars, Or Why You Should Care About the Global Struggle Over the Value of Money
 American Populism and the Persistence of the Paranoid Style
@@ -175,9 +197,12 @@ Humanitarian Intervention: The American Experience from William McKinley to Bara
 Syria's Islamist Movement and the 2011-12 Uprising
 Russia and the Race for the Arctic
 From Karl Marx to Karl Rove: “Class Warfare” in American Politics
+------------------------------------------------------------------------------------------------------------------------
+
+Not in system:
+
 Socialism Takes Over France, Again?
 From Commonplace to Controversial: The Different Histories of Abortion in Europe and the United States
 "Merchants of Death": The International Traffic in Arms
 Democratizing American Higher Education: The Legacy of the Morrill Land Grant Act
-
 ------------------------------------------------------------------------------------------------------------------------
