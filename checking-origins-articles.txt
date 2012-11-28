@@ -59,6 +59,22 @@ Article author:
 
     If content (bio and picture) does not exist copy it from the original eHistory site
 
+Tooltip functionality:
+
+    The old site had a popup tooltip on some articles. This functionality has been replicated on the new site.
+
+    You will need to add the class "hovertitle" and a link to any text that you would like to behave this way.
+
+    Place the text you would like to appear in the tooltip inside of the title tag.
+
+    If possible point the link to endnotes that contain the same information (graceful javascript degredation).
+
+Old Site Data Dump:
+
+    http://temp-staging.asc.ohio-state.edu/projects/ehistory/osu/origins/migrate-temp/
+
+    This is a dump of all articles and members from the old system.
+
 ------------------------------------------------------------------------------------------------------------------------
 Style Guidelines:
 
@@ -123,12 +139,12 @@ Beyond 'Tribes': Violence and Politics in Kenya
 Taiwan's 2008 Elections: A New Direction for the 'Other China'?
 What's in a Name?: The Meaning of 'Muslim Fundamentalist'
 Playing Politics: Olympic Controversies Past and Present
+A Tale of Two Fisheries: Fishing and Over-Fishing in American Waters
 
 -------------------------------------------------------
 
 Remaining:
 
-A Tale of Two Fisheries: Fishing and Over-Fishing in American Waters
 Punishing the Past: Presidential Elections in Times of Crisis (1932, 1968, 2008)
 Clash in the Caucasus: Georgia, Russia, and the Fate of South Ossetia
 Making Sense of the 'Hermit Kingdom': North Korea in the Nuclear Age
