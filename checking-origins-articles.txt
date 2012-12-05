@@ -119,7 +119,6 @@ Pages are created in the main article by inserting the <!--pagebreak--> placehol
 
 Cover Images, Article Maps and Charts, and Article Images must always have their "Alternate Text" field completed. For the Cover Image this can be the same as the caption so long as it describes the image. This field will not appear until after you upload the image.
 
-
 ------------------------------------------------------------------------------------------------------------------------
 Article Progress:
 ------------------------------------------------------------------------------------------------------------------------
@@ -145,13 +144,13 @@ Clash in the Caucasus: Georgia, Russia, and the Fate of South Ossetia
 Making Sense of the 'Hermit Kingdom': North Korea in the Nuclear Age
 With a Little Help from Our Friends?: The Costs of Coalition Warfare
 'The World's Worst Humanitarian Crisis': Understanding the Darfur Conflict
+Kosovo's Year Zero: Between a Balkan Past and a European Future
+The Real Marriage Revolution
 
 -------------------------------------------------------
 
 Remaining:
 
-Kosovo's Year Zero: Between a Balkan Past and a European Future
-The Real Marriage Revolution
 Requiem: Detroit and the Fate of Urban America
 ------------------------------------------------------------------------------------------------------------------------
 
