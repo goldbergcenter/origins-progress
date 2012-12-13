@@ -187,13 +187,13 @@ Articles for Alex:
 Completed:
 
 -Pirates of Puntland, Somalia (checked: fixed broken links, uploaded missing PDF, fixed formatting on biblio, added author)
--Building a New Silk Road? Central Asia in the New World Order (checked: minor html cleanup, broken links in editors notes, added author)
+-Building a New Silk Road? Central Asia in the New World Order (checked: minor html cleanup, broken links in editors notes, added author, alt tags missing in two maps & charts)
 -Becoming 'European': The Diverging Paths of the Czech and Slovak Republics (checked: minor html cleanup, added author)
 -The Long, Long Struggle for Women's Rights in Afghanistan (checked: minor html cleanup, added author)
-From Baghdad to Kabul: The Historical Roots of U.S. Counterinsurgency Doctrine
-Population Bomb? The Debate over Indian Population
-1989 Twenty Years On: The End of Communism and the Fate of Eastern Europe
-Child Kidnapping in America
+-From Baghdad to Kabul: The Historical Roots of U.S. Counterinsurgency Doctrine (checked: minor html cleanup)
+-Population Bomb? The Debate over Indian Population (checked: minor html cleanup, added hovertitle class where needed)
+-1989 Twenty Years On: The End of Communism and the Fate of Eastern Europe (checked: minor html cleanup)
+-Child Kidnapping in America (checked: minor html cleanup, charts listed under images)
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -201,7 +201,7 @@ Articles for Drew:
 
 Completed:
 
-A Pact with the Devil? The United States and the Fate of Modern Haiti
+-A Pact with the Devil? The United States and the Fate of Modern Haiti (checked: minor html cleanup, added maps, added author)
 Currency Wars, Or Why You Should Care About the Global Struggle Over the Value of Money
 American Populism and the Persistence of the Paranoid Style
 Frenemies: Iran and America since 1900
@@ -221,3 +221,8 @@ Not in system:
 
 Democratizing American Higher Education: The Legacy of the Morrill Land Grant Act
 ------------------------------------------------------------------------------------------------------------------------
+
+TODO:
+
+Check Drew's articles
+Complete remaining articles
