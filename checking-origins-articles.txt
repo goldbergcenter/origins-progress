@@ -186,10 +186,10 @@ Articles for Alex:
 
 Completed:
 
-Pirates of Puntland, Somalia
-Building a New Silk Road? Central Asia in the New World Order
-Becoming 'European': The Diverging Paths of the Czech and Slovak Republics
-The Long, Long Struggle for Women's Rights in Afghanistan
+-Pirates of Puntland, Somalia (checked: fixed broken links, uploaded missing PDF, fixed formatting on biblio, added author)
+-Building a New Silk Road? Central Asia in the New World Order (checked: minor html cleanup, broken links in editors notes, added author)
+-Becoming 'European': The Diverging Paths of the Czech and Slovak Republics (checked: minor html cleanup, added author)
+-The Long, Long Struggle for Women's Rights in Afghanistan (checked: minor html cleanup, added author)
 From Baghdad to Kabul: The Historical Roots of U.S. Counterinsurgency Doctrine
 Population Bomb? The Debate over Indian Population
 1989 Twenty Years On: The End of Communism and the Fate of Eastern Europe
