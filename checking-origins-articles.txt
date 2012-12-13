@@ -179,6 +179,9 @@ The Kids Aren't Alright: The Policymaking of Student Loan Debt
 The Other Half of the African Sky: Women's Struggles in Zimbabwe
 The Soccer World Goes to South Africa: Sport and the Making of Modern Africa
 Updating 'No Child Left Behind': Change, or More of the Same?
+Dry Days Down Under: Australia and the World Water Crisis
+Feast and Famine: The Global Food Crisis
+Charles Darwin's American Adventure: A Melodrama in Three Acts
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -206,14 +209,6 @@ Completed:
 -American Populism and the Persistence of the Paranoid Style (checked: minor html cleanup, added author)
 Frenemies: Iran and America since 1900
 Influenza Pandemics Now, Then, and Again
-
--------------------------------------------------------
-
-Remaining:
-
-Dry Days Down Under: Australia and the World Water Crisis
-Feast and Famine: The Global Food Crisis
-Charles Darwin's American Adventure: A Melodrama in Three Acts
 
 ------------------------------------------------------------------------------------------------------------------------
 
