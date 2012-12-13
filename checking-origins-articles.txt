@@ -207,7 +207,7 @@ Completed:
 -A Pact with the Devil? The United States and the Fate of Modern Haiti (checked: minor html cleanup, added maps, added author)
 -Currency Wars, Or Why You Should Care About the Global Struggle Over the Value of Money (checked: minor html cleanup, added maps, added author)
 -American Populism and the Persistence of the Paranoid Style (checked: minor html cleanup, added author)
-Frenemies: Iran and America since 1900
+-Frenemies: Iran and America since 1900 (checked: minor html cleanup, added author)
 Influenza Pandemics Now, Then, and Again
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -219,5 +219,5 @@ Democratizing American Higher Education: The Legacy of the Morrill Land Grant Ac
 
 TODO:
 
-Check Drew's articles
+Check Drew's last article
 Complete remaining articles
