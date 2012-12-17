@@ -160,14 +160,14 @@ A Century of U.S. Relations with Iraq
 Re-Mapping American Politics: The Redistricting Revolution Fifty Years Later
 Conserving Diversity at the Dinner Table: Plants, Food Security and Gene Banks
 Down and Out (Again): America's Long Struggle with Mass Unemployment
+Energy Policy and the Long Transition in America
+Avoiding the Scourge of War: The Challenges of United Nations Peacekeeping
+The Shifting Terrain of Latin American Drugs Trafficking
 
 -------------------------------------------------------
 
 Remaining:
 
-Energy Policy and the Long Transition in America
-Avoiding the Scourge of War: The Challenges of United Nations Peacekeeping
-The Shifting Terrain of Latin American Drugs Trafficking
 Outdoing Panama: Turkey’s 'Crazy' Plan to Build an Istanbul Canal
 WikiLeaks, and the Past and Present of American Foreign Relations
 'The Energy of a Bright Tomorrow': The Rise of Nuclear Power in Japan
@@ -182,6 +182,7 @@ Updating 'No Child Left Behind': Change, or More of the Same?
 Dry Days Down Under: Australia and the World Water Crisis
 Feast and Famine: The Global Food Crisis
 Charles Darwin's American Adventure: A Melodrama in Three Acts
+Democratizing American Higher Education: The Legacy of the Morrill Land Grant Act
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -208,16 +209,11 @@ Completed:
 -Currency Wars, Or Why You Should Care About the Global Struggle Over the Value of Money (checked: minor html cleanup, added maps, added author)
 -American Populism and the Persistence of the Paranoid Style (checked: minor html cleanup, added author)
 -Frenemies: Iran and America since 1900 (checked: minor html cleanup, added author)
-Influenza Pandemics Now, Then, and Again
+-Influenza Pandemics Now, Then, and Again (checked: minor html cleanup, added author)
 
 ------------------------------------------------------------------------------------------------------------------------
 
 Not in system:
 
-Democratizing American Higher Education: The Legacy of the Morrill Land Grant Act
+Should Age Matter? How 65 Came to Be Old and Old Came to Be Ill
 ------------------------------------------------------------------------------------------------------------------------
-
-TODO:
-
-Check Drew's last article
-Complete remaining articles
