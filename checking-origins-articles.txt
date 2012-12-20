@@ -166,11 +166,6 @@ The Shifting Terrain of Latin American Drugs Trafficking
 Outdoing Panama: Turkey’s 'Crazy' Plan to Build an Istanbul Canal
 WikiLeaks, and the Past and Present of American Foreign Relations
 'The Energy of a Bright Tomorrow': The Rise of Nuclear Power in Japan
-
--------------------------------------------------------
-
-Remaining:
-
 Where Have You Gone, Holden Caulfield? Why We Aren't 'Alienated' Anymore
 South America's 'Sleeping Giant' Wakes: Brazil's 2010 Election
 The Summer of '10: Federal Power, Local Autonomy, and the Struggle over Immigration Policy
@@ -183,6 +178,7 @@ Dry Days Down Under: Australia and the World Water Crisis
 Feast and Famine: The Global Food Crisis
 Charles Darwin's American Adventure: A Melodrama in Three Acts
 Democratizing American Higher Education: The Legacy of the Morrill Land Grant Act
+Should Age Matter? How 65 Came to Be Old and Old Came to Be Ill (teaser only)
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -211,9 +207,4 @@ Completed:
 -Frenemies: Iran and America since 1900 (checked: minor html cleanup, added author)
 -Influenza Pandemics Now, Then, and Again (checked: minor html cleanup, added author)
 
-------------------------------------------------------------------------------------------------------------------------
-
-Not in system:
-
-Should Age Matter? How 65 Came to Be Old and Old Came to Be Ill
 ------------------------------------------------------------------------------------------------------------------------
