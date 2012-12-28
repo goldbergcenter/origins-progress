@@ -1,17 +1,17 @@
 Content for all reviews has been confirmed (all images, text, etc is correct)
-Reviews with a "-" need to have image captions added.
+Captions have been added to all images.
 All review authors need to be added.
 
 Ajax, The Dutch, The War: the Strange Tale of Soccer During Europe's Darkest Hour
 Brigham Young: Pioneer Prophet
 State of War: The Political Economy of American Warfare, 1945-2011
 Through the Eye of a Needle: Wealth, the Fall of Rome, and the Making of Christianity in the West, 350-550 AD
--Krupp: A History of the Legendary German Firm
+Krupp: A History of the Legendary German Firm
 Restless Empire: China and the World Since 1750
 Motherland in Danger: Soviet Propaganda during World War II
 The Young Turks' Crime against Humanity: The Armenian Genocide and Ethnic Cleansing in the Ottoman Empire
--All the Missing Souls: A Personal History of the War Crimes Tribunals
--The Battle of Adwa: African Victory in the Age of Empire
+All the Missing Souls: A Personal History of the War Crimes Tribunals
+The Battle of Adwa: African Victory in the Age of Empire
 Patrick Henry: First Among Patriots
 Philanthropy in America: A History
 Deng Xiaoping and the Transformation of China
@@ -19,13 +19,13 @@ Chivalry in Medieval England
 With Our Backs to the Wall: Victory and Defeat in 1918
 Zoot Suit: The Enigmatic Career of an Extreme Style
 Ataturk: An Intellectual Biography
--Measure of the Earth: The Enlightenment expedition that reshaped our world
+Measure of the Earth: The Enlightenment expedition that reshaped our world
 The End of the West: The Once and Future Europe
 Catholic Pirates and Greek Merchants
 Pay For Play: A History of Big-Time College Athletic Reform
 A Strange Stirring: The Feminine Mystique and American Women at the Dawn of the 1960s
--The Gold Standard at the Turn of the Twentieth Century: Rising Powers, Global Money, and the Age of Empire
--Song of Wrath: The Peloponnesian War Begins
+The Gold Standard at the Turn of the Twentieth Century: Rising Powers, Global Money, and the Age of Empire
+Song of Wrath: The Peloponnesian War Begins
 A Wicked Company: The Forgotten Radicalism of the European Enlightenment
 Sexual Injustice: Supreme Court Decisions from Griswold to Roe
 A Short History of Celebrity
@@ -36,7 +36,7 @@ The Rise and Fall of Modern Conservatism
 Conspirator: Lenin in Exile
 A History of Iran: Empire of the Mind
 A Swindler's Progress: Nobles and Convicts in the Age of Liberty
--The Anatomy Murders
+The Anatomy Murders
 Trotsky: A Biography
 Civilizations of Ancient Iraq
 Where Have All the Soldiers Gone: The Transformation of Modern Europe
@@ -44,33 +44,33 @@ Where Have All the Soldiers Gone: The Transformation of Modern Europe
 Famine: A Short History
 A Tale of Two Monasteries: Westminster and Saint-Denis is the Thirteenth Century
 Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present
--A Cruel Wind: Pandemic Flu in America, 1918-1920
+A Cruel Wind: Pandemic Flu in America, 1918-1920
 The Blue Tattoo: The Life of Olive Oatman
 Caesar: A Life in Western Culture
 The Aryan Jesus: Christian Theologians and the Bible in Nazi Germany
 The City's End: Two Centuries of Fantasies, Fears, and Premonitions of New York's Destruction
--Robert Clifton Weaver and the American City: The Life and Times of an Urban Reformer
--A Revolution in Taste: The Rise of French Cuisine, 1650-1800
+Robert Clifton Weaver and the American City: The Life and Times of an Urban Reformer
+A Revolution in Taste: The Rise of French Cuisine, 1650-1800
 Sweet Land of Liberty: The Forgotten Struggle for Civil Rights in the North
 Alexander the Great: A Life in Legend
 1948: A History of the First Arab-Israeli War
 The Sino-Soviet Split: Cold War in the Communist World
 After Abolition: Britain and the Slave Trade Since 1807
 The Discovery of Mankind: Atlantic Encounters in the Ages of Columbus
--School Lunch Politics: The Surprising History of America's Favorite Welfare Program
--Byzantium
--'What Hath God Wrought?': The Transformation of America, 1815-1848.
+School Lunch Politics: The Surprising History of America's Favorite Welfare Program
+Byzantium
+'What Hath God Wrought?': The Transformation of America, 1815-1848.
 American Jewish Loss after the Holocaust
--In the Beginning: Fundamentalism, The Scopes Trial, and the Making of the Antievolution Movement
--A Failed Empire: The Soviet Union in the Cold War from Stalin to Gorbachev (The New Cold War History)
--Dr. Livingstone, I Presume?: Missionaries, Journalists, Explorers, and Empire
+In the Beginning: Fundamentalism, The Scopes Trial, and the Making of the Antievolution Movement
+A Failed Empire: The Soviet Union in the Cold War from Stalin to Gorbachev (The New Cold War History)
+Dr. Livingstone, I Presume?: Missionaries, Journalists, Explorers, and Empire
 Children at Play: An American History
--Weimar Germany: Promise and Tragedy
--The Jamestown Project
--Ho Chi Minh: A Biography
--The Humboldt Current: Nineteenth-Century Exploration and the Roots of American Environmentalism
+Weimar Germany: Promise and Tragedy
+The Jamestown Project
+Ho Chi Minh: A Biography
+The Humboldt Current: Nineteenth-Century Exploration and the Roots of American Environmentalism
 The Sack of Panama: Captain Morgan and The Battle for the Caribbean
--Oppenheimer: The Tragic Intellect
+Oppenheimer: The Tragic Intellect
 A Day in a Medieval City
 Journeys to the Other Shore: Muslim and Western Travelers in Search of Knowledge
 Islamic Imperialism: A History
@@ -81,7 +81,7 @@ Strangers Nowhere in the World: The Rise of Cosmopolitanism in Early Modern Euro
 American Theocracy: The Peril and Politics of Radical Religion, Oil, and Borrowed Money in the 21st Century
 Blind Oracles: Intellectuals and War from Kennan to Kissinger
 Upon the Altar of the Nation: A Moral History of the Civil War
--Phyllis Schlafly and Grassroots Conservatism: A Woman's Crusade
+Phyllis Schlafly and Grassroots Conservatism: A Woman's Crusade
 Spirits of Defiance: National Prohibition and Jazz Age Literature
 The Breaking Point: Hemingway, Dos Passos, and the Murder of Jose Robles
 Shakespeare For All Time
